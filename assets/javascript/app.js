@@ -9,7 +9,6 @@ $(document).ready(function() {
   var numIncorrect = 0;
   var numUnanswered = 0;
   var currentGuess;
-  var currentGuess;
   var currentQuestion;
   var currentAnswers;
   var currentCorrect;
