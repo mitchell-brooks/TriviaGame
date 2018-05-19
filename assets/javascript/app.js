@@ -53,9 +53,7 @@ $("#btnStart").click(function(){
 
 // game function
 function newQuestions(){
-  //for loop running through the array of trivia question objects
-// for(i=0; i<triviaQuestions.length; i++){
-  //reset timer to 30 each time
+  // set the amount of time to be decremented
   timeLeft = 20
   // start the timer
   run();
